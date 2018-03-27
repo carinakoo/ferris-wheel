@@ -23,6 +23,6 @@ Future work
 * Tests
 * Memory. The searchTerms table should be much smaller by referencing movies by ID rather than the full title string.
 * Features. Search on more data fields including title. Other possibilities: genre, plot keywords. Expose more data for each movie.
-* Error handling. Handle potential network errors or throttling issues.
+* Error handling. Handle potential network errors or throttling issues in crawl.
 * Caching. Store results for common search queries. 
 * Consider another language. Is Node appropriate here at scale?
