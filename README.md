@@ -11,6 +11,8 @@ Service will run at http://localhost:3000/imdb
 
 Example query: http://localhost:3000/imdb?search=spielberg
 
+Demo app: https://carina-imdb.herokuapp.com/imdb?search=spielberg
+
 Assumptions
 * The service exposes search for only the director and actor names for each movie.
 * Does not search for words in the movie title
